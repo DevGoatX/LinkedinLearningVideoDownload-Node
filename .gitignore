@@ -1,0 +1,11 @@
+/node_modules
+/.idea
+/.vscode
+/.vagrant
+
+.env
+.phpunit.result.cache
+.DS_Store
+
+package-lock.json
+*.log

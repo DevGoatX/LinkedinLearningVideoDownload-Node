@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "axios": "^1.2.2",
+    "dotenv": "^16.0.3",
+    "download": "^8.0.0",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "node-downloader-helper": "^2.1.6",
+    "node-fetch": "^3.3.0",
+    "path": "^0.12.7",
+    "puppeteer": "^19.4.1",
+    "puppeteer-stream": "^2.1.3"
+  }
+}
